@@ -7,7 +7,7 @@ Apple Pie is an interactive word-guessing game built using Swift and UIKit. The 
 ## Key Features
 
 - **Interactive Gameplay**: Players can guess letters to form the correct word, with immediate feedback on their guesses.
-- **Visual Feedback**: The game visually represents the player's progress using an image, where incorrect guesses are penalized.
+- **Visual Feedback**: The game visually represents the player's progress using an image.
 - **Score Tracking**: The game tracks the number of wins and losses, encouraging players to improve their scores.
 
 ## Technologies and Tools
@@ -15,10 +15,3 @@ Apple Pie is an interactive word-guessing game built using Swift and UIKit. The 
 - **Programming Language**: Swift
 - **Framework**: UIKit for building the user interface
 
-## Installation
-
-To set up this project on your local machine:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/apple-pie-ios-app.git
